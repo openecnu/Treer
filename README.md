@@ -23,6 +23,7 @@ Treer始于2014-07-05(是在这一天讨论出Treer这个名的)并决定小组�
 
 是的,我承认.由于我们都是一群新手(绝大多),有部分组员有过其他语言或一些网络基础.<br />
 一门语言从学习到能随心的开发,是需要一定时间来沉淀自己的.而且组内成员年龄较小绝大多都是大二,大三的学生.<br />
+所以就目前,我们可能无法编写出实用的功能,优美的代码.但这仅只是目前而已<br />
 
 
 ###如果你觉得这里触动了你内心底层的一丝感动
@@ -36,6 +37,6 @@ Treer始于2014-07-05(是在这一天讨论出Treer这个名的)并决定小组�
 
 #联系我们
 
-Treer.me<br />
-pytreer#163.com<br />
-@Millyn_Yue<br />
+[Treer.me](http://www.treer.me)<br />
+[pytreer#163.com](mailto:pytreer@163.com)<br />
+[@Millyn_Yue](https://twitter.com/Millyn_yue)<br />
