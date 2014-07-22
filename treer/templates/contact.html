@@ -1,0 +1,32 @@
+{% extends "base.html"%}
+{% block style%}
+.sendmail {
+  width:300px;
+  margin:0px auto;
+}
+Body {
+	background:#EEEEEE;
+	<!-- width:500px;  -->
+}
+{% endblock%}
+{% block title %}
+在线联系
+{% endblock%}
+
+{% block content %}
+<form class="sendmail" action="" method="POST">{% csrf_token %}
+	<h2 style="color:#000000;font-weight;">我们需要您的建议 :D</h2>
+  <div class="form-group">
+    <input type="text" class="form-control" name="subject"  placeholder="您的名字" >
+  </div>
+    <div>
+	<input type="email" class="form-control" name="email"  placeholder="您的邮箱" >
+  </div>
+  <br>
+  <div>
+  	<textarea class="form-control" rows="6" name="message" placeholder="我们需要每一位朋友的意见!"></textarea>
+  </div>
+  <br>
+  <div><input class="btn btn-primary"type="submit" value="发送"></div>
+</form> 
+{% endblock%}
