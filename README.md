@@ -35,8 +35,13 @@ Treer始于2014-07-05(是在这一天讨论出Treer这个名的)并决定小组�
 我并不看重技术高低,因为没有什么比那颗执着并不被腐蚀的心更为重要.<br />
 
 
-#联系我们
+###分支介绍
+Dev 用于开发新功能或Change某些老功能 (测试的)
+Fix 用于修复往期Bug (更改的)
+master 用于full版本 (稳定的)
 
+联系我们
+=============================
 [Treer.me](http://www.treer.me)<br />
 [pytreer#163.com](mailto:pytreer@163.com)<br />
 [@Millyn_Yue](https://twitter.com/Millyn_yue)<br />
