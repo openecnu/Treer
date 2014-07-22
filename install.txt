@@ -1,0 +1,4 @@
+0.0.4版本可用Runserver本地运行，
+在线Email表单需修改
+settings.py 90行STMP服务器设置
+views.py 26、27行邮箱需和STMP服务器设置邮箱一致
