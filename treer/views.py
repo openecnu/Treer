@@ -34,4 +34,9 @@ def contact(request):
 def thanks(request): 
     return render_to_response('thanks.html', {}, context_instance=RequestContext(request))
 
+def error_404(request):
+    return render_to_response('404.html',{})
+
+def error_500(request):
+    return render_to_response('500.html',{})
 
